@@ -22,7 +22,7 @@
   <a href="#usar">Usar</a> •
   <a href="#testado">Testado</a> •
   <a href="#limites">Limites</a> •
-  <a href="docs/how_it_works.md">Como funciona</a>
+  <a href="docs/how-it-works.md">Como funciona</a>
 </p>
 
 ---
@@ -111,4 +111,4 @@ Os testes usaram uma sessão limpa do player web. As capturas e o log completo e
 
 ## Documentação
 
-Os detalhes técnicos, a tabela de estados, o log de rede e as capturas originais estão em [docs/how_it_works.md](docs/how_it_works.md).
+Os detalhes técnicos, a tabela de estados, o log de rede e as capturas originais estão em [docs/how-it-works.md](docs/how-it-works.md).
