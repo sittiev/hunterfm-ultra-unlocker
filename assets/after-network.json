@@ -1,0 +1,27 @@
+{
+  "afterPlay": {
+    "uwu": "tUdpciY6",
+    "isLogged": false,
+    "quality": 3,
+    "playingQuality": 3,
+    "plusModal": false,
+    "options": []
+  },
+  "network": [
+    "https://stream.hunter.fm/sertanejo.m3u8",
+    "https://hls.hunter.fm/sertanejo/320.m3u8",
+    "https://hls.hunter.fm/sertanejo/320/358896696-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896697-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896698-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896699-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896700-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896701-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896702-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896703-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896704-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896705-0.aac",
+    "https://hls.hunter.fm/sertanejo/320.m3u8",
+    "https://hls.hunter.fm/sertanejo/320/358896706-0.aac",
+    "https://hls.hunter.fm/sertanejo/320/358896707-0.aac"
+  ]
+}
